@@ -1,6 +1,6 @@
 %Github version
 %%X and Y vectors are row vectors not column vectors
-load('TrussDesign.mat','C','Sx','Sy','X','Y','L');
+load('TrussDesign1_BrianLandonHarin_A3.mat','C','Sx','Sy','X','Y','L');
 
 %%code for formating the A and T matrix
 [jointNum, memberNum] = size(C); %%connection matrix C. This matrix has j rows and m columns
