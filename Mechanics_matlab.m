@@ -1,3 +1,4 @@
+%Github version
 %%X and Y vectors are row vectors not column vectors
 load('TrussDesign.mat','C','Sx','Sy','X','Y','L');
 
